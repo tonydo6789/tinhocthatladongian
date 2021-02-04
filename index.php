@@ -5,7 +5,7 @@
 <?php
 ECHO "Hello World!<br>";
 echo "Hello World!<br>";
-EcHo "Hello tonydo - jenkins success<br>";
+EcHo "Hello tonydo - aws that la don gian <br>";
 ?>
 
 </body>
